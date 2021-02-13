@@ -13,13 +13,13 @@ gh repo clone uniquemozilla22/HelloToast
 ```
 
 ## Running
-![Build Screen](../../screenshot/screen.jpg)
+![Build Screen](../../screenshot/screen.png)
 This is the build screen of the application in which we can see a TextView and two Buttons
 
-![Toast Button Screen](../../screenshot/toast.jpg)
+![Toast Button Screen](../../screenshot/toast.png)
  This is the screenshot in which we can see that when we click the toast button on the application the toast is popped up.
 
-![Count Button Screen](../../screenshot/count.jpg)
+![Count Button Screen](../../screenshot/count.png)
 This is the screenshot in which we can see that when we click the count button the text view also increments.
 
 ## Usage
