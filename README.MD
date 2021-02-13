@@ -12,6 +12,16 @@ Download the git CLI from the website [git](https://git-scm.com/downloads)
 gh repo clone uniquemozilla22/HelloToast
 ```
 
+## Running
+![Build Screen](./screenshot/screen.jpg)
+This is the build screen of the application in which we can see a TextView and two Buttons
+
+![Toast Button Screen](./screenshot/toast.jpg)
+ This is the screenshot in which we can see that when we click the toast button on the application the toast is popped up.
+
+![Count Button Screen](./screenshot/count.jpg)
+This is the screenshot in which we can see that when we click the count button the text view also increments.
+
 ## Usage
 
 Clone the Project , Build it and Run it on andriod studio using any api between 24 to latest
