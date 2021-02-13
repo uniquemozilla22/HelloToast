@@ -24,7 +24,7 @@ This is the screenshot in which we can see that when we click the count button t
 
 ## Usage
 
-Clone the Project , Build it and Run it on andriod studio using any api between 24 to latest
+Clone the Project , Build it and Run it on android studio using any api between 24 to latest
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
